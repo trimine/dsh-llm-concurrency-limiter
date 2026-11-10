@@ -159,4 +159,4 @@ Live checks covered configuration addition/deletion and reload, disable/enable c
 
 ## Publishing and support
 
-See [publishing instructions](./PUBLISHING.md) and the [changelog](./CHANGELOG.md). Report issues at [GitHub Issues](https://github.com/trimine/dsh-llm-concurrency-limiter/issues) with DSH/plugin versions and reproduction steps. Never include API keys, private conversations or entire personal configurations.
+See [changelog](./CHANGELOG.md). Report issues at [GitHub Issues](https://github.com/trimine/dsh-llm-concurrency-limiter/issues) with DSH/plugin versions and reproduction steps. Never include API keys, private conversations or entire personal configurations.
