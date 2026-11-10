@@ -168,4 +168,4 @@ npm test
 
 ## 仓库与发布
 
-详见 [发布指南](./PUBLISHING.md) 和 [更新日志](./CHANGELOG.md)。提交问题请使用 [Issues](https://github.com/trimine/dsh-llm-concurrency-limiter/issues)，提供 DSH/插件版本及复现步骤，勿上传 API Key、私人对话或完整个人配置。
+详见 [更新日志](./CHANGELOG.md)。提交问题请使用 [Issues](https://github.com/trimine/dsh-llm-concurrency-limiter/issues)，提供 DSH/插件版本及复现步骤，勿上传 API Key、私人对话或完整个人配置。
