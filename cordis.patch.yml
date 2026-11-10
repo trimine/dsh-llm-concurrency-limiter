@@ -1,0 +1,15 @@
+# Concurrency Limiter for DeepSeek Harness (DSH v0.2.2-rc.1+)
+# Configures concurrency limits per provider and model to prevent rate limits.
+- insert:
+    - id: llm-concurrency-limiter
+      name: 'dsh-llm-concurrency-limiter'
+      config:
+        globalConcurrency: null
+        providers: {}
+        models:
+          "deepseek/deepseek-reasoner": 1
+          "deepseek-reasoner": 1
+        defaultProviderConcurrency: 5
+        maxQueueSize: 100
+        queueTimeoutMs: 300000
+        verbose: true

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "LLM concurrency limiter",
+    "description": "Sets concurrency limits for specific models and AI providers, queuing requests to prevent rate limiting (429) during parallel task execution."
+  }
+}

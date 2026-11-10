@@ -1,0 +1,11 @@
+node_modules/
+*.tgz
+*.zip
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+config-before-audit.json
+release/
